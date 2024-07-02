@@ -1,5 +1,3 @@
-Sure, here is the documentation for your project, including the setup and execution instructions.
-
 # Synthetic Data Generator Documentation
 
 ## Overview
